@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "جارٍ التحميل…",
-    "gitInfoUnavailable": "معلومات Git غير متوفرة"
+    "gitInfoUnavailable": "معلومات Git غير متوفرة",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

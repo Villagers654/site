@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "Загрузка...",
-    "gitInfoUnavailable": "Git недоступен"
+    "gitInfoUnavailable": "Git недоступен",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

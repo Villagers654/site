@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "Lādējas...",
-    "gitInfoUnavailable": "Git info nav pieejams"
+    "gitInfoUnavailable": "Git info nav pieejams",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

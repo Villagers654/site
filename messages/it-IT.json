@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "Caricamento...",
-    "gitInfoUnavailable": "Informazioni di Git non disponibili"
+    "gitInfoUnavailable": "Informazioni di Git non disponibili",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

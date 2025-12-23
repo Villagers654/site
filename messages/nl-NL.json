@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "Aan het laden...",
-    "gitInfoUnavailable": "Git informatie niet beschikbaar"
+    "gitInfoUnavailable": "Git informatie niet beschikbaar",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

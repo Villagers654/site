@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "Yükleniyor...",
-    "gitInfoUnavailable": "Git bilgisi bulunamadı"
+    "gitInfoUnavailable": "Git bilgisi bulunamadı",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {

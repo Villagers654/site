@@ -21,7 +21,8 @@
   },
   "misc": {
     "loading": "लोड हो रहा है...",
-    "gitInfoUnavailable": "Git जानकारी उपलब्ध नहीं है"
+    "gitInfoUnavailable": "Git जानकारी उपलब्ध नहीं है",
+    "credit": "Written by"
   },
   "meta": {
     "established_information": {
